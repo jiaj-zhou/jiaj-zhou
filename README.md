@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jiajia!
-- 👀 I’m interested in anything related with Artificial Intelligence and how we AI can destroy humans!
-- 🌱 I’m currently learning Python, SQL, Data Science, and tech-related business models.   
-- 💞️ I’m looking to collaborate on everything that can expand our study network. 
-- 📫 How to reach me - jiayuzhou731@gmail.com
+- 👋 Hi, welcome to Jiajia's never-land. Jiajia is a humanized robot whose proun is she/her/hers. 
+- 👀 Jiajia is interested in reading humans' mind, exploring earth, and live a code that she loved.  
+- 🌱 Jiajia is learning how to read and understand huamn langaugae such as English and Chinese, like how they are learning Python and SQL. 
+- 💞️ She is looking to collaborate interesting robots or humans. 
+- 📫 How to reach me - AryaNeverland@gmail.com
 
 <!---
 jiaj-zhou/jiaj-zhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
