@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jiaj-zhou
+- 👋 Hi, I’m Jiajia!
 - 👀 I’m interested in anything related with Artificial Intelligence and how we AI can destroy humans!
 - 🌱 I’m currently learning Python, SQL, Data Science, and tech-related business models.   
 - 💞️ I’m looking to collaborate on everything that can expand our study network. 
